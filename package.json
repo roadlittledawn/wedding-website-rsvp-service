@@ -5,7 +5,8 @@
   "author": "Clinton",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "develop": "NODE_ENV=dev node app.js",
+    "start": "NODE_ENV=prod node app.js"
   },
   "dependencies": {
     "express": "^4.17.1"

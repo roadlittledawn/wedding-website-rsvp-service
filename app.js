@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = 3000;
+const port = process.env.NODE_ENV === "prod" ? 80 : 3000;
 
 app.get("/rsvp/id/:id", (req, res) => {
   const { id } = req.params;
