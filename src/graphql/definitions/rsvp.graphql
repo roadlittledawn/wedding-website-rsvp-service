@@ -1,0 +1,42 @@
+type Query {
+  invite(input: InviteInput!): Invite
+}
+
+type Mutation {
+  recordResponse(input: RecordResponseInput!): Invite!
+}
+
+type Invite {
+  id: String!
+  inviteId: String!
+  isSubmitted: Boolean
+  partyName: String
+  guestList: [Guest]
+}
+
+type Guest {
+  name: String!
+  isGoing: Boolean!
+  mealChoice: String
+  dietaryRestrictions: String
+}
+
+input InviteInput {
+  inviteId: String!
+}
+
+input RecordResponseInput {
+  inviteId: String!
+  payload: RecordResponsePayload!
+}
+
+input RecordResponsePayload {
+  guestList: [GuestListPayload]
+}
+
+input GuestListPayload {
+  name: String!
+  isGoing: Boolean!
+  mealChoice: String!
+  dietaryRestrictions: String
+}

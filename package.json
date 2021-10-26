@@ -5,10 +5,19 @@
   "author": "Clinton",
   "main": "app.js",
   "scripts": {
-    "develop": "NODE_ENV=dev node app.js",
-    "start": "NODE_ENV=prod node app.js"
+    "develop": "NODE_ENV=dev node src/index.js",
+    "start": "NODE_ENV=prod node src/index.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "apollo-server-express": "^2.2.2",
+    "deep-assign": "^3.0.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.16.4",
+    "graphql": "^14.0.2",
+    "graphql-import": "^0.7.1",
+    "graphql-tools": "^4.0.3",
+    "mongodb": "^4.1.3",
+    "mongoose": "^6.0.12",
+    "slug": "^0.9.3"
   }
 }
