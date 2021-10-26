@@ -31,7 +31,6 @@ input RecordResponseInput {
 }
 
 input RecordResponsePayload {
-  isSubmitted: Boolean!
   guestList: [GuestListPayload]
 }
 
