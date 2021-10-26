@@ -35,3 +35,41 @@ Query variables:
   }
 }
 ```
+
+## Mutations
+
+```graphql
+mutation RecordResponse($input: RecordResponseInput!) {
+  recordResponse(input: $input) {
+    isSubmitted
+    guestList {
+      name
+      isGoing
+    }
+  }
+}
+```
+
+Query variables:
+
+```json
+{
+  "input": {
+    "inviteId": "8749js",
+    "payload": {
+      "guestList": [
+        {
+          "name": "Courtney Langosch",
+          "isGoing": true,
+          "mealChoice": "Chicken"
+        },
+        {
+          "name": "Cassie Bauer",
+          "isGoing": true,
+          "mealChoice": "Pasta"
+        }
+      ]
+    }
+  }
+}
+```
