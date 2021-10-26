@@ -1,5 +1,6 @@
 {
   "name": "b-c-rsvp-service",
+  "license": "MIT",
   "version": "1.0.0",
   "description": "Node service to process rsvp data",
   "author": "Clinton",
