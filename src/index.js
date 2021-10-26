@@ -5,18 +5,13 @@ const { log } = console;
 
 const port = process.env.PORT || 80;
 
-log(`> Successfully connected to ${db.client.s.url}`);
-app.listen(port, () => {
-  log("> Ready on http://localhost:8001/graphql");
+db.on("open", function () {
+  log(`> Successfully connected to ${db.client.s.url}`);
+  app.listen(port, () => {
+    log("> Ready on /graphql");
+  });
 });
 
-// db.then((mongoose) => {
-//   log(`> Successfully connected to ${mongoose.client.s.url}`);
-//   app.listen(port, () => {
-//     log("> Ready on http://localhost:8001/graphql");
-//   });
-// }).catch((e) =>
-//   setImmediate(() => {
-//     throw e;
-//   })
-// );
+db.on("error", function (err) {
+  throw err;
+});
