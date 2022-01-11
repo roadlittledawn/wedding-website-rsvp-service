@@ -11,6 +11,7 @@ type Invite {
   inviteId: String!
   isSubmitted: Boolean
   partyName: String
+  personalMessage: String
   guestList: [Guest]
 }
 
