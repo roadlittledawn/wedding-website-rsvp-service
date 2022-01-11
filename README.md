@@ -6,6 +6,30 @@ Set env var for MongoDB Atlas connection
 
 Use `yarn develop`
 
+## Deploy
+
+Log in via Heroku CLI:
+
+```bash
+heroku login
+```
+
+Log in via browser which should log you in via command line.
+
+When PR is merged in github, switch to `main`, pull down latest.
+
+To deploy to heroku:
+
+```bash
+git push heroku main
+```
+
+To access heroku logs, monitor deploy and status:
+
+```
+heroku logs --tail
+```
+
 ## Queries
 
 Get an invite by `inviteId`:
