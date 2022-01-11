@@ -24,8 +24,9 @@ const validateData = (arr) => {
 };
 
 const main = ({
-  generateEmpty = true,
+  generateEmpty = false,
   regenInviteCodes = false,
+  customUpdate = false,
   filePath = path.join(process.cwd(), "emptyRsvpToImport.json"),
 }) => {
   if (generateEmpty) {
@@ -58,10 +59,24 @@ const main = ({
     validateData(newRsvpArray);
     fs.writeFileSync(filePath, JSON.stringify(newRsvpArray, null, 2), "utf-8");
   }
+  // Custom updates here for now
+  if (!generateEmpty && customUpdate) {
+    const rsvpArray = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+    const newRsvpArray = rsvpArray.map((item) => {
+      item.guestList = item.guestList.map((guest) => {
+        delete guest.mealChoice;
+        return { ...guest, dietaryPreference: null };
+      });
+      return {
+        ...item,
+      };
+    });
+    validateData(newRsvpArray);
+    fs.writeFileSync(filePath, JSON.stringify(newRsvpArray, null, 2), "utf-8");
+  }
 };
 
 main({
-  generateEmpty: false,
-  regenInviteCodes: true,
+  customUpdate: true,
   filePath: path.join(process.cwd(), "rsvpToImport.json"),
 });

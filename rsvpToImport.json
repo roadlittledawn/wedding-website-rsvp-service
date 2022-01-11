@@ -7,16 +7,16 @@
       {
         "name": "Cindy Lindsley",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Kyle Lindsley",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -28,9 +28,9 @@
       {
         "name": "Kim Langosch",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -42,9 +42,9 @@
       {
         "name": "Helen Brown",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -56,16 +56,16 @@
       {
         "name": "Courtney Langosch",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Cassie Bauer",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -77,16 +77,16 @@
       {
         "name": "Chad Spielmann",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Tiff Lin",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -98,16 +98,16 @@
       {
         "name": "Marissa Rosenblum",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Sarah Koehler",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -119,16 +119,16 @@
       {
         "name": "Steph Hakes",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Mike McKormick",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -140,9 +140,9 @@
       {
         "name": "Jennifer Wagner",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -154,9 +154,9 @@
       {
         "name": "Kevin Maginnis",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -168,16 +168,16 @@
       {
         "name": "Matt Hegge",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Allison Niles",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -189,9 +189,9 @@
       {
         "name": "Matt Morris-Cook",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -203,16 +203,16 @@
       {
         "name": "Cindy Musial",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Jerry Musial",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -224,16 +224,16 @@
       {
         "name": "Melanie Musial",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Efrain Marquez",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -245,23 +245,23 @@
       {
         "name": "Joe Mysliwy",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Renee Mysliwy",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Christopher Mysliwy",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -273,16 +273,16 @@
       {
         "name": "Casey Mysliwy",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Patrick McIlhone",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -294,16 +294,16 @@
       {
         "name": "Joe Mysliwy",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Rebekah Del Rio",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -315,16 +315,16 @@
       {
         "name": "Angie Miller",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Terry Miller",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -336,9 +336,9 @@
       {
         "name": "Jenelle Yeh",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -350,16 +350,16 @@
       {
         "name": "Mary Lange",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Les Lange",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -371,16 +371,16 @@
       {
         "name": "Larry Langosch",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Jeri Langosch",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -392,16 +392,16 @@
       {
         "name": "Shannon Rubenbauer",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "John Rubenbauer",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -413,23 +413,23 @@
       {
         "name": "Dale Stonek",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Jean Stonek",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Stonek",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -441,16 +441,16 @@
       {
         "name": "Linda Bierbach",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Peter Bierbach",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -462,16 +462,16 @@
       {
         "name": "Hunter Bierbach",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Michelle Watson",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -483,16 +483,16 @@
       {
         "name": "Simon Bierbach",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Jodie Bierbach",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -504,9 +504,9 @@
       {
         "name": "Julie Kuczinski",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -518,16 +518,16 @@
       {
         "name": "Jacob Bare",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Talia Bare",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -539,16 +539,16 @@
       {
         "name": "Sara Scullin",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "DJ Scullin",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -560,9 +560,9 @@
       {
         "name": "Eileen Smith",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -574,16 +574,16 @@
       {
         "name": "Cara Ryan",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Tim Ryan",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -595,16 +595,16 @@
       {
         "name": "Catherine Kron",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Justin Kron",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -616,16 +616,16 @@
       {
         "name": "Guy Morse",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Kari Morse",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -637,16 +637,16 @@
       {
         "name": "Zach Elwood",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": "Vegan"
+        "dietaryRestrictions": "Vegan",
+        "dietaryPreference": null
       },
       {
         "name": "Molly Elwood",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": "Vegan"
+        "dietaryRestrictions": "Vegan",
+        "dietaryPreference": null
       }
     ]
   },
@@ -658,16 +658,16 @@
       {
         "name": "Austin Schaefer",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Amalija Schaefer",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -679,9 +679,9 @@
       {
         "name": "Loretta Jungbluth",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -693,16 +693,16 @@
       {
         "name": "Nan Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Pop Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -714,16 +714,16 @@
       {
         "name": "Vince Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Cindy Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -735,23 +735,23 @@
       {
         "name": "Gail Naab",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Michael Naab",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Michael Naab, Jr",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -763,30 +763,30 @@
       {
         "name": "Nicole Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Jessica Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Chris Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Nancy Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -798,16 +798,16 @@
       {
         "name": "Anastasia Speer",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Guest",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -819,9 +819,9 @@
       {
         "name": "Yvonne Jackson",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -833,16 +833,16 @@
       {
         "name": "Andrea Green",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Guest",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -854,9 +854,9 @@
       {
         "name": "Corinne Baker",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -868,16 +868,16 @@
       {
         "name": "Julie Notario",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Brian Notario",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -889,9 +889,9 @@
       {
         "name": "Roawin Luo",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -903,16 +903,16 @@
       {
         "name": "Ilyse Genovese",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Pete Genovese",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -924,9 +924,9 @@
       {
         "name": "Janelle Tracy",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -938,9 +938,9 @@
       {
         "name": "Nelly Gomez",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -952,16 +952,16 @@
       {
         "name": "Angie Molina",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Oliver Molina",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -973,9 +973,9 @@
       {
         "name": "Omo Oyelakin",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -987,16 +987,16 @@
       {
         "name": "Grace Pemba",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Zanda Pemba",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1008,9 +1008,9 @@
       {
         "name": "Kelly Randolph",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1022,16 +1022,16 @@
       {
         "name": "Will Allen",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Rachel Basel",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1043,16 +1043,16 @@
       {
         "name": "Christine Strzalka",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Caroline Strzalka",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1064,16 +1064,16 @@
       {
         "name": "Heidi Stanley",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Matt Johnson",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1085,9 +1085,9 @@
       {
         "name": "Lindsey Harrison",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1099,16 +1099,16 @@
       {
         "name": "Paige Hewlett",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Guest",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1120,16 +1120,16 @@
       {
         "name": "Angelina Swarnoski",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Andre Lorincz",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1141,16 +1141,16 @@
       {
         "name": "Bobbie Parisi",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Guest",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1162,9 +1162,9 @@
       {
         "name": "Corey Jackson",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1176,16 +1176,16 @@
       {
         "name": "Ali Schneider",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Chris Woods",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1197,9 +1197,9 @@
       {
         "name": "Meredith Supernavage",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1211,16 +1211,16 @@
       {
         "name": "Gregg Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Teresa Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1232,16 +1232,16 @@
       {
         "name": "Paul Braccil",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Shannon Braccil",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1253,16 +1253,16 @@
       {
         "name": "Pam Nonemaker",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "George Nonemaker",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1274,16 +1274,16 @@
       {
         "name": "Matt Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       },
       {
         "name": "Mary Braccili",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1295,9 +1295,9 @@
       {
         "name": "Emma K",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1309,9 +1309,9 @@
       {
         "name": "Christina Wachpress",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   },
@@ -1323,9 +1323,9 @@
       {
         "name": "Casi Yost",
         "isGoing": false,
-        "mealChoice": "",
         "likesOysters": false,
-        "dietaryRestrictions": null
+        "dietaryRestrictions": null,
+        "dietaryPreference": null
       }
     ]
   }
