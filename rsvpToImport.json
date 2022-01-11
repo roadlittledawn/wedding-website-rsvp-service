@@ -1,6 +1,6 @@
 [
   {
-    "inviteId": "LnLJ",
+    "inviteId": "oDV8sA",
     "isSubmitted": false,
     "partyName": "Cindy & Kyle Lindsley",
     "guestList": [
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "inviteId": "7Z+w",
+    "inviteId": "pJLCkw",
     "isSubmitted": false,
     "partyName": "Kim Langosch",
     "guestList": [
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "inviteId": "Tj3z",
+    "inviteId": "Seri2w",
     "isSubmitted": false,
     "partyName": "Helen Brown",
     "guestList": [
@@ -49,7 +49,7 @@
     ]
   },
   {
-    "inviteId": "ryWd",
+    "inviteId": "6VQLIA",
     "isSubmitted": false,
     "partyName": "Courtney and Cassie",
     "guestList": [
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "inviteId": "pclz",
+    "inviteId": "UUPQbQ",
     "isSubmitted": false,
     "partyName": "Chad Spielmann & Tiffany Lin",
     "guestList": [
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "inviteId": "vPnD",
+    "inviteId": "PNlPHQ",
     "isSubmitted": false,
     "partyName": "Marissa Rosenblum & Sarah Koehler",
     "guestList": [
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "inviteId": "E84z",
+    "inviteId": "KY69VQ",
     "isSubmitted": false,
     "partyName": "Steph Hakes & Mike McKormick",
     "guestList": [
@@ -133,7 +133,7 @@
     ]
   },
   {
-    "inviteId": "VEgF",
+    "inviteId": "xXGmtw",
     "isSubmitted": false,
     "partyName": "Jennifer Wagner",
     "guestList": [
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "inviteId": "vZGt",
+    "inviteId": "n2tVYQ",
     "isSubmitted": false,
     "partyName": "Kevin Maginnis",
     "guestList": [
@@ -161,12 +161,19 @@
     ]
   },
   {
-    "inviteId": "weIh",
+    "inviteId": "BgiYmQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Matt Hegge & Allison Niles",
     "guestList": [
       {
-        "name": "",
+        "name": "Matt Hegge",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Allison Niles",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -175,12 +182,12 @@
     ]
   },
   {
-    "inviteId": "XkHx",
+    "inviteId": "YXnWDg",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Matt Morris-Cook",
     "guestList": [
       {
-        "name": "",
+        "name": "Matt Morris-Cook",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -189,12 +196,19 @@
     ]
   },
   {
-    "inviteId": "Gq/8",
+    "inviteId": "09Wiew",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Cindy and Jerry Musial",
     "guestList": [
       {
-        "name": "",
+        "name": "Cindy Musial",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Jerry Musial",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -203,12 +217,19 @@
     ]
   },
   {
-    "inviteId": "HIIq",
+    "inviteId": "iutLMQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Melanie Musial and Efrain Marquez",
     "guestList": [
       {
-        "name": "",
+        "name": "Melanie Musial",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Efrain Marquez",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -217,12 +238,26 @@
     ]
   },
   {
-    "inviteId": "tRp9",
+    "inviteId": "2Msl9g",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Joe, Renee, and Christopher Mysliwy",
     "guestList": [
       {
-        "name": "",
+        "name": "Joe Mysliwy",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Renee Mysliwy",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Christopher Mysliwy",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -231,12 +266,19 @@
     ]
   },
   {
-    "inviteId": "mFnY",
+    "inviteId": "Np15FQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Casey Mysliwy and Patrick McIlhone",
     "guestList": [
       {
-        "name": "",
+        "name": "Casey Mysliwy",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Patrick McIlhone",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -245,12 +287,19 @@
     ]
   },
   {
-    "inviteId": "Booj",
+    "inviteId": "tiLEYQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Joe Mysliwy and Rebekah Del Rio",
     "guestList": [
       {
-        "name": "",
+        "name": "Joe Mysliwy",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Rebekah Del Rio",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -259,12 +308,19 @@
     ]
   },
   {
-    "inviteId": "ZI12",
+    "inviteId": "pCJciQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Angie and Terry Miller",
     "guestList": [
       {
-        "name": "",
+        "name": "Angie Miller",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Terry Miller",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -273,12 +329,12 @@
     ]
   },
   {
-    "inviteId": "yUYo",
+    "inviteId": "F8eh1Q",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Jenelle Yeh",
     "guestList": [
       {
-        "name": "",
+        "name": "Jenelle Yeh",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -287,12 +343,19 @@
     ]
   },
   {
-    "inviteId": "8Ddx",
+    "inviteId": "lXErvA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Mary and Les Lange",
     "guestList": [
       {
-        "name": "",
+        "name": "Mary Lange",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Les Lange",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -301,12 +364,19 @@
     ]
   },
   {
-    "inviteId": "xZD+",
+    "inviteId": "ytRAyQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Larry & Jeri Langosch",
     "guestList": [
       {
-        "name": "",
+        "name": "Larry Langosch",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Jeri Langosch",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -315,12 +385,19 @@
     ]
   },
   {
-    "inviteId": "SqIv",
+    "inviteId": "ip9Niw",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Shannon and John Rubenbauer",
     "guestList": [
       {
-        "name": "",
+        "name": "Shannon Rubenbauer",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "John Rubenbauer",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -329,12 +406,26 @@
     ]
   },
   {
-    "inviteId": "fcFx",
+    "inviteId": "xXTccg",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "The Stonek Family",
     "guestList": [
       {
-        "name": "",
+        "name": "Dale Stonek",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Jean Stonek",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Stonek",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -343,12 +434,19 @@
     ]
   },
   {
-    "inviteId": "peKs",
+    "inviteId": "GW1TBA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Linda and Peter Bierbach",
     "guestList": [
       {
-        "name": "",
+        "name": "Linda Bierbach",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Peter Bierbach",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -357,12 +455,19 @@
     ]
   },
   {
-    "inviteId": "N4BV",
+    "inviteId": "zUnzbg",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Hunter Bierbach and Michelle Watson",
     "guestList": [
       {
-        "name": "",
+        "name": "Hunter Bierbach",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Michelle Watson",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -371,12 +476,19 @@
     ]
   },
   {
-    "inviteId": "Zzf5",
+    "inviteId": "p0WNjQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Simon Bierbach and Jodie Bierbach",
     "guestList": [
       {
-        "name": "",
+        "name": "Simon Bierbach",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Jodie Bierbach",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -385,12 +497,12 @@
     ]
   },
   {
-    "inviteId": "HsjR",
+    "inviteId": "qxeEhw",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Julie Kuczinski",
     "guestList": [
       {
-        "name": "",
+        "name": "Julie Kuczinski",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -399,12 +511,19 @@
     ]
   },
   {
-    "inviteId": "fArj",
+    "inviteId": "aR0ZSQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Jacob and Tailia Bare",
     "guestList": [
       {
-        "name": "",
+        "name": "Jacob Bare",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Talia Bare",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -413,12 +532,19 @@
     ]
   },
   {
-    "inviteId": "nAt7",
+    "inviteId": "wVqfrQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Sara and DJ Scullin",
     "guestList": [
       {
-        "name": "",
+        "name": "Sara Scullin",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "DJ Scullin",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -427,12 +553,12 @@
     ]
   },
   {
-    "inviteId": "l4yb",
+    "inviteId": "z0GxpA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Eileen Smith",
     "guestList": [
       {
-        "name": "",
+        "name": "Eileen Smith",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -441,12 +567,19 @@
     ]
   },
   {
-    "inviteId": "ZYLr",
+    "inviteId": "AdCBFQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Cara and Tim Ryan",
     "guestList": [
       {
-        "name": "",
+        "name": "Cara Ryan",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Tim Ryan",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -455,12 +588,19 @@
     ]
   },
   {
-    "inviteId": "S4B6",
+    "inviteId": "yIQNbQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Catherine and Justin Kron",
     "guestList": [
       {
-        "name": "",
+        "name": "Catherine Kron",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Justin Kron",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -469,12 +609,19 @@
     ]
   },
   {
-    "inviteId": "vUq5",
+    "inviteId": "g4uBVQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Guy and Kari Morse",
     "guestList": [
       {
-        "name": "",
+        "name": "Guy Morse",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Kari Morse",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -483,12 +630,40 @@
     ]
   },
   {
-    "inviteId": "xiFB",
+    "inviteId": "5f4ojg",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Zach and Molly Elwood",
     "guestList": [
       {
-        "name": "",
+        "name": "Zach Elwood",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": "Vegan"
+      },
+      {
+        "name": "Molly Elwood",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": "Vegan"
+      }
+    ]
+  },
+  {
+    "inviteId": "9C4Fkg",
+    "isSubmitted": false,
+    "partyName": "Austin and Amalija Schaefer",
+    "guestList": [
+      {
+        "name": "Austin Schaefer",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Amalija Schaefer",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -497,12 +672,12 @@
     ]
   },
   {
-    "inviteId": "Pnx4",
+    "inviteId": "priz4w",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Ms. Loretta Jungbluth",
     "guestList": [
       {
-        "name": "",
+        "name": "Loretta Jungbluth",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -511,12 +686,19 @@
     ]
   },
   {
-    "inviteId": "f6ht",
+    "inviteId": "aoIZNg",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Mr. and Mrs. Vince Braccili, II",
     "guestList": [
       {
-        "name": "",
+        "name": "Nan Braccili",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Pop Braccili",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -525,12 +707,19 @@
     ]
   },
   {
-    "inviteId": "1zz1",
+    "inviteId": "Qrw4yw",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Mr. and Mrs. Vince Braccili, III",
     "guestList": [
       {
-        "name": "",
+        "name": "Vince Braccili",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Cindy Braccili",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -539,12 +728,26 @@
     ]
   },
   {
-    "inviteId": "vvhl",
+    "inviteId": "FEoFSg",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "The Naab Family",
     "guestList": [
       {
-        "name": "",
+        "name": "Gail Naab",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Michael Naab",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Michael Naab, Jr",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -553,12 +756,33 @@
     ]
   },
   {
-    "inviteId": "Mi7c",
+    "inviteId": "ex24Hw",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Christopher Braccili & Family",
     "guestList": [
       {
-        "name": "",
+        "name": "Nicole Braccili",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Jessica Braccili",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Chris Braccili",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Nancy Braccili",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -567,12 +791,19 @@
     ]
   },
   {
-    "inviteId": "pb1F",
+    "inviteId": "XJwbww",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Anastasia Speer and Guest",
     "guestList": [
       {
-        "name": "",
+        "name": "Anastasia Speer",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Guest",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -581,12 +812,12 @@
     ]
   },
   {
-    "inviteId": "UM5f",
+    "inviteId": "0YXt1A",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Yvonne Jackson",
     "guestList": [
       {
-        "name": "",
+        "name": "Yvonne Jackson",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -595,12 +826,19 @@
     ]
   },
   {
-    "inviteId": "6/YE",
+    "inviteId": "8801iw",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Andrea Green and Guest",
     "guestList": [
       {
-        "name": "",
+        "name": "Andrea Green",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Guest",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -609,12 +847,12 @@
     ]
   },
   {
-    "inviteId": "Ls0r",
+    "inviteId": "8dnX5g",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Corinne Baker",
     "guestList": [
       {
-        "name": "",
+        "name": "Corinne Baker",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -623,12 +861,19 @@
     ]
   },
   {
-    "inviteId": "4JnL",
+    "inviteId": "nXVqpw",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Julie and Brian Notario",
     "guestList": [
       {
-        "name": "",
+        "name": "Julie Notario",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Brian Notario",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -637,12 +882,12 @@
     ]
   },
   {
-    "inviteId": "sTdh",
+    "inviteId": "b1MXBA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Roawin Luo",
     "guestList": [
       {
-        "name": "",
+        "name": "Roawin Luo",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -651,12 +896,19 @@
     ]
   },
   {
-    "inviteId": "Ugs2",
+    "inviteId": "qIjGvw",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Ilyse and Pete Genovese",
     "guestList": [
       {
-        "name": "",
+        "name": "Ilyse Genovese",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Pete Genovese",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -665,12 +917,12 @@
     ]
   },
   {
-    "inviteId": "Btqa",
+    "inviteId": "DEhciA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Ms. Janelle Tracy",
     "guestList": [
       {
-        "name": "",
+        "name": "Janelle Tracy",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -679,12 +931,12 @@
     ]
   },
   {
-    "inviteId": "aFNo",
+    "inviteId": "6k4c8Q",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Ms. Nelly Gomez",
     "guestList": [
       {
-        "name": "",
+        "name": "Nelly Gomez",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -693,12 +945,19 @@
     ]
   },
   {
-    "inviteId": "BZIT",
+    "inviteId": "jFmllw",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Angie and Oliver Molina",
     "guestList": [
       {
-        "name": "",
+        "name": "Angie Molina",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Oliver Molina",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -707,12 +966,12 @@
     ]
   },
   {
-    "inviteId": "zdyh",
+    "inviteId": "uv2D0A",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Omolara Oyelakin",
     "guestList": [
       {
-        "name": "",
+        "name": "Omo Oyelakin",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -721,12 +980,19 @@
     ]
   },
   {
-    "inviteId": "4al/",
+    "inviteId": "A9yUbg",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "The Pemba Family",
     "guestList": [
       {
-        "name": "",
+        "name": "Grace Pemba",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Zanda Pemba",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -735,12 +1001,12 @@
     ]
   },
   {
-    "inviteId": "7UbC",
+    "inviteId": "I8xGBw",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Ms. Kelly Randolph",
     "guestList": [
       {
-        "name": "",
+        "name": "Kelly Randolph",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -749,12 +1015,19 @@
     ]
   },
   {
-    "inviteId": "N11I",
+    "inviteId": "QZiSXA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Will Allen & Rachel Basel",
     "guestList": [
       {
-        "name": "",
+        "name": "Will Allen",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Rachel Basel",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -763,12 +1036,19 @@
     ]
   },
   {
-    "inviteId": "qSY2",
+    "inviteId": "26wiEA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Christine & Caroline Strzalka",
     "guestList": [
       {
-        "name": "",
+        "name": "Christine Strzalka",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Caroline Strzalka",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -777,12 +1057,19 @@
     ]
   },
   {
-    "inviteId": "1k77",
+    "inviteId": "dlEuQQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Heidi Stanley and Matthew Johnson",
     "guestList": [
       {
-        "name": "",
+        "name": "Heidi Stanley",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Matt Johnson",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -791,12 +1078,12 @@
     ]
   },
   {
-    "inviteId": "eWUe",
+    "inviteId": "yjRR1Q",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Ms. Lindsey Harrison",
     "guestList": [
       {
-        "name": "",
+        "name": "Lindsey Harrison",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -805,12 +1092,19 @@
     ]
   },
   {
-    "inviteId": "xpLN",
+    "inviteId": "F7YCpQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Paige Hewlett and Guest",
     "guestList": [
       {
-        "name": "",
+        "name": "Paige Hewlett",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Guest",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -819,12 +1113,19 @@
     ]
   },
   {
-    "inviteId": "wdqJ",
+    "inviteId": "3JI3rQ",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Angelina Swarnoski and Andre Lorincz",
     "guestList": [
       {
-        "name": "",
+        "name": "Angelina Swarnoski",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Andre Lorincz",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -833,12 +1134,19 @@
     ]
   },
   {
-    "inviteId": "hrxe",
+    "inviteId": "1G2HwA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Bobbie Parisi and Guest",
     "guestList": [
       {
-        "name": "",
+        "name": "Bobbie Parisi",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Guest",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -847,12 +1155,12 @@
     ]
   },
   {
-    "inviteId": "p50u",
+    "inviteId": "xUYtog",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Corey Jackson",
     "guestList": [
       {
-        "name": "",
+        "name": "Corey Jackson",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -861,12 +1169,19 @@
     ]
   },
   {
-    "inviteId": "L2nx",
+    "inviteId": "5rIYkg",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Ali Schneider and Chris Woods",
     "guestList": [
       {
-        "name": "",
+        "name": "Ali Schneider",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Chris Woods",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -875,12 +1190,12 @@
     ]
   },
   {
-    "inviteId": "VPkG",
+    "inviteId": "94CKTA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Meredith Supernavage",
     "guestList": [
       {
-        "name": "",
+        "name": "Meredith Supernavage",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -889,12 +1204,19 @@
     ]
   },
   {
-    "inviteId": "assm",
+    "inviteId": "sEILaA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Gregg and Teresa Braccili",
     "guestList": [
       {
-        "name": "",
+        "name": "Gregg Braccili",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Teresa Braccili",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -903,12 +1225,19 @@
     ]
   },
   {
-    "inviteId": "syxm",
+    "inviteId": "9DlszA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Paul and Shannon Braccil",
     "guestList": [
       {
-        "name": "",
+        "name": "Paul Braccil",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Shannon Braccil",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -917,12 +1246,19 @@
     ]
   },
   {
-    "inviteId": "HeBG",
+    "inviteId": "zddb2Q",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Pam and George Nonemaker",
     "guestList": [
       {
-        "name": "",
+        "name": "Pam Nonemaker",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "George Nonemaker",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -931,12 +1267,19 @@
     ]
   },
   {
-    "inviteId": "l5zI",
+    "inviteId": "srStUg",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Matt and Mary Braccili",
     "guestList": [
       {
-        "name": "",
+        "name": "Matt Braccili",
+        "isGoing": false,
+        "mealChoice": "",
+        "likesOysters": false,
+        "dietaryRestrictions": null
+      },
+      {
+        "name": "Mary Braccili",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -945,12 +1288,12 @@
     ]
   },
   {
-    "inviteId": "VMhZ",
+    "inviteId": "SpBP6g",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Emma K",
     "guestList": [
       {
-        "name": "",
+        "name": "Emma K",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -959,12 +1302,12 @@
     ]
   },
   {
-    "inviteId": "bgLD",
+    "inviteId": "uPSk8Q",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Christina Wachpress",
     "guestList": [
       {
-        "name": "",
+        "name": "Christina Wachpress",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
@@ -973,40 +1316,12 @@
     ]
   },
   {
-    "inviteId": "wPnQ",
+    "inviteId": "37kDfA",
     "isSubmitted": false,
-    "partyName": "",
+    "partyName": "Casi Yost",
     "guestList": [
       {
-        "name": "",
-        "isGoing": false,
-        "mealChoice": "",
-        "likesOysters": false,
-        "dietaryRestrictions": null
-      }
-    ]
-  },
-  {
-    "inviteId": "bROI",
-    "isSubmitted": false,
-    "partyName": "",
-    "guestList": [
-      {
-        "name": "",
-        "isGoing": false,
-        "mealChoice": "",
-        "likesOysters": false,
-        "dietaryRestrictions": null
-      }
-    ]
-  },
-  {
-    "inviteId": "L89B",
-    "isSubmitted": false,
-    "partyName": "",
-    "guestList": [
-      {
-        "name": "",
+        "name": "Casi Yost",
         "isGoing": false,
         "mealChoice": "",
         "likesOysters": false,
