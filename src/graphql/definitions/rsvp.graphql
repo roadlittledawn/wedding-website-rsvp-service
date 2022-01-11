@@ -17,7 +17,7 @@ type Invite {
 type Guest {
   name: String!
   isGoing: Boolean!
-  mealChoice: String
+  dietaryPreference: String
   likesOysters: Boolean
   dietaryRestrictions: String
 }
@@ -38,7 +38,7 @@ input RecordResponsePayload {
 input GuestListPayload {
   name: String!
   isGoing: Boolean!
-  mealChoice: String!
+  dietaryPreference: String
   likesOysters: Boolean
   dietaryRestrictions: String
 }
