@@ -18,6 +18,12 @@ const schema = new Schema(
       unique: false,
       trim: true,
     },
+    personalMessage: {
+      type: String,
+      required: false,
+      unique: false,
+      trim: true,
+    },
     guestList: {
       type: Array,
       required: true,
