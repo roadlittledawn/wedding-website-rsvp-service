@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const filePath = path.join(process.cwd(), "rsvpToImport.json");
+const filePath = path.join(process.cwd(), "rsvps-2022-1-12.json");
 
 const rsvpData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
